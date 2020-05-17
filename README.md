@@ -15,11 +15,11 @@ Topics covered:
 - [x] Web Frameworks based on Python
 - [ ] Lecture notes
 
-Click [here] (https://www.python.org/) to visit official Python website.
+Click [here](https://www.python.org/) to visit official Python website.
 You will find:
 * Python Documentation
 * Style Guide Documentation
 * Python to download
 * and many more resources
 
-Click [here] (https://code.visualstudio.com/download) to download Visual Studio Code which will be used in this tutorial series.
+Click [here](https://code.visualstudio.com/download) to download Visual Studio Code which will be used in this tutorial series.
