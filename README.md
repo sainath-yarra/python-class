@@ -1,7 +1,7 @@
 # python-class
 Python 3 class notes and code
 
-## lecture 1
+## Lecture 1
 #### Introduction to Python
 Topics covered:
 - [x] About the author of Python
@@ -13,7 +13,7 @@ Topics covered:
 - [x] Installing an IDE
 - [x] Hello World Program
 - [x] Web Frameworks based on Python
-- [ ] Lecture notes
+- [ ] Lecture notes*
 
 Click [here](https://www.python.org/) to visit official Python website.
 You will find:
@@ -23,3 +23,16 @@ You will find:
 * and many more resources
 
 Click [here](https://code.visualstudio.com/download) to download Visual Studio Code which will be used in this tutorial series.
+
+## Lecture 2
+#### Basic Data Types in Python
+Topics covered:
+- [x] Int, Float, Double, String
+- [x] String concatination
+- [x] Inserting varables in a String
+- [x] Taking Input from console
+- [x] Typecasting in Python
+- [x] Comments in Python
+- [ ] Lecture notes*
+
+*Lecture notes will be updated soon...
