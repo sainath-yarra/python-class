@@ -32,6 +32,7 @@ Topics covered:
 - [x] Inserting varables in a String
 - [x] Taking Input from console
 - [x] Typecasting in Python
+- [x] Shebang
 - [x] Comments in Python
 - [ ] Lecture notes*
 
