@@ -13,7 +13,7 @@ Topics covered:
 - [x] Installing an IDE
 - [x] Hello World Program
 - [x] Web Frameworks based on Python
-- [ ] Lecture notes*
+- [x] Lecture notes
 
 Click [here](https://www.python.org/) to visit official Python website.
 You will find:
