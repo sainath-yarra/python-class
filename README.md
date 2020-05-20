@@ -30,7 +30,7 @@ Topics covered:
 - [x] Int, Float, Double, String
 - [x] String concatination
 - [x] Inserting varables in a String
-- [x] Taking Input from console
+- [x] Giving Input to console
 - [x] Typecasting in Python
 - [x] Shebang
 - [x] Comments in Python
