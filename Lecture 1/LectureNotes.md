@@ -110,4 +110,4 @@ Parts of code written in Python can easily communicate with other parts of an ap
 
 ### Why Python bad?
 Even though Python has a lot of advantages, it has one major drawback - _EXECUTION SPEED_.
-Compaired to fully compiled programming laguages like C, C++. This disadvantage can be overcomed by integrating Python with languages like C or C++ (which work faster) at crucial parts of code that requre faster execution time.
+Compaired to fully compiled programming laguages like C and C++, Python is slower in execution speed. This disadvantage can be overcomed by integrating Python with languages like C or C++ (which work faster) at crucial parts of code that requre faster execution time.
