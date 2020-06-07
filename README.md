@@ -27,7 +27,7 @@ Click [here](https://code.visualstudio.com/download) to download Visual Studio C
 ## Lecture 2
 #### Basic Data Types in Python
 Topics covered:
-- [x] Int, Float, Double, String
+- [x] Data types
 - [x] String concatination
 - [x] Inserting varables in a String
 - [x] Giving Input to console
